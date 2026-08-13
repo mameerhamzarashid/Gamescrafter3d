@@ -1,0 +1,6 @@
+{
+  "name": "GamesCrafter Store",
+  "description": "Premium mobile-first browser gaming platform featuring 30+ instant HTML5 single-player and 2-player games, PWA installability, SEO game pages, achievements system, player stats, and virtual touch controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

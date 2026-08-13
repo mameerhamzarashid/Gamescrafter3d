@@ -1,0 +1,42 @@
+{
+  "name": "GamesCrafter Store - Cyber Games Portal",
+  "short_name": "GamesCrafter",
+  "description": "Play 30+ instant 1-player & 2-player HTML5 cyber games in your browser. No download required.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1120",
+  "theme_color": "#0f172a",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=192&h=192&q=80",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=512&h=512&q=80",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["games", "entertainment"],
+  "shortcuts": [
+    {
+      "name": "Trending Games",
+      "url": "/#trending",
+      "description": "Play hot trending browser games"
+    },
+    {
+      "name": "2-Player Games",
+      "url": "/#2-player",
+      "description": "Head-to-head 2 player arcade games"
+    },
+    {
+      "name": "Surprise Me",
+      "url": "/#surprise",
+      "description": "Launch a random game"
+    }
+  ]
+}
